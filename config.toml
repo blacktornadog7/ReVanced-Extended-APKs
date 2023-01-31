@@ -20,7 +20,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 [Music-arm64]
 build-mode = "apk"
 app-name = "Music"
-excluded-patches = "custom-branding-music-afn-blue custom-branding-music-red custom-branding-music-revancify"
+excluded-patches = "custom-branding-music-afn-blue custom-branding-music-afn-red custom-branding-music-revancify"
 included-patches = ""
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
